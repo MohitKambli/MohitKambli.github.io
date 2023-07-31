@@ -478,7 +478,7 @@ body {
 
 .stack__card:nth-child(2) .card{
   position: relative;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .stack__card:nth-child(2) .card .face{
