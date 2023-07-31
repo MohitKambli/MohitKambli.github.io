@@ -482,8 +482,8 @@ body {
 }
 
 .stack__card:nth-child(2) .card .face{
-  width: 500px;
-  height: 400px;
+  width: 400px;
+  height: 350px;
   transition: 0.5s;
 }
 
@@ -494,7 +494,7 @@ body {
   justify-content: center;
   align-items: center;
   z-index: 1;
-  transform: translateY(100px);
+  transform: translateY(50px);
 }
 
 .stack__card:nth-child(2) .card:hover .face.face1{
@@ -545,7 +545,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 .stack__card:nth-child(2) .card .face.face2 .content .animate-gh{
@@ -554,7 +554,7 @@ body {
   display:  inline-block;
   text-decoration: none;
   font-weight: 900;
-  font-size: 1.5em;
+  font-size: 1.2em;
   color: #333;
   padding: 5px;
   border: 1px solid #333;
@@ -605,8 +605,8 @@ body {
 }
 
 .stack__card:nth-child(3) .card .face{
-  width: 500px;
-  height: 400px;
+  width: 400px;
+  height: 350px;
   transition: 0.5s;
 }
 
@@ -617,7 +617,7 @@ body {
   justify-content: center;
   align-items: center;
   z-index: 1;
-  transform: translateY(100px);
+  transform: translateY(50px);
 }
 
 .stack__card:nth-child(3) .card:hover .face.face1{
@@ -668,7 +668,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 .stack__card:nth-child(3) .card .face.face2 .content .animate-gh{
@@ -677,7 +677,7 @@ body {
   display:  inline-block;
   text-decoration: none;
   font-weight: 900;
-  font-size: 1.5em;
+  font-size: 1.2em;
   color: #333;
   padding: 5px;
   border: 1px solid #333;
