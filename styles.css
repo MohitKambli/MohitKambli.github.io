@@ -247,11 +247,11 @@ body {
   font-weight: 500;
   position: relative;
   top: 0;
-  animation: slide 12s steps(4) infinite;
+  animation: slide 9s steps(3) infinite;
 }
 @keyframes slide {
   100% {
-    top: -450px;
+    top: -335px;
   }
 }
 .dynamic-texts li span {
